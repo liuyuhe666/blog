@@ -1,0 +1,17 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "private": true,
+  "description": "📖 LiuYuhe's Blog, 有空写点文章, 欢迎 star ✨",
+  "scripts": {
+    "build": "node main.js",
+    "prettier": "prettier --write \"README.md\""
+  },
+  "devDependencies": {
+    "@femm/prettier": "^1.0.1",
+    "fs-extra": "^11.1.0",
+    "octonode": "^0.10.2",
+    "prettier": "^2.8.2"
+  },
+  "prettier": "@femm/prettier"
+}
