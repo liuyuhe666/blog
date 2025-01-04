@@ -3,6 +3,5 @@
 - [https://hellolyh.xlog.app](https://hellolyh.xlog.app)
 - [https://liuyuhe666.github.io](https://liuyuhe666.github.io)
 
-[//]: # 'SECTION_START'
 
-<!-- Content will be added here -->
+[//]: # 'SECTION_START'
