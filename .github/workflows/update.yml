@@ -37,5 +37,5 @@ jobs:
           git config user.name 'github-actions[bot]'
           git config user.email 'github-actions[bot]@users.noreply.github.com'
           git add .
-          git commit -m "github-actions[bot]: update README.md" || exit 0
+          git commit -m "Update README.md" || exit 0
           git push
